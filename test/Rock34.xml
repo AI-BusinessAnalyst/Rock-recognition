@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Labelled data - Rock</folder>
+	<filename>Rock34.jpg</filename>
+	<path>/home/lcd/Downloads/Labelled data - Rock/Rock34.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Quartz</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1368</xmin>
+			<ymin>780</ymin>
+			<xmax>1829</xmax>
+			<ymax>1304</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Quartz</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1876</xmin>
+			<ymin>469</ymin>
+			<xmax>2359</xmax>
+			<ymax>1089</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Quartz</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>589</xmin>
+			<ymin>41</ymin>
+			<xmax>1239</xmax>
+			<ymax>489</ymax>
+		</bndbox>
+	</object>
+</annotation>

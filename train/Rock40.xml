@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Labelled data - rock</folder>
+	<filename>Rock40.jpg</filename>
+	<path>D:\johnnyvo.sg_gmail_100gb\LabView\Kavi System\Labelled data - rock\Rock40.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Quartz</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>368</xmin>
+			<ymin>884</ymin>
+			<xmax>1194</xmax>
+			<ymax>1602</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Quartz</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1439</xmin>
+			<ymin>413</ymin>
+			<xmax>2152</xmax>
+			<ymax>1028</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Quartz</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>43</ymin>
+			<xmax>502</xmax>
+			<ymax>746</ymax>
+		</bndbox>
+	</object>
+</annotation>

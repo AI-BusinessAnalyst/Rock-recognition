@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Labelled data - rock</folder>
+	<filename>Rock12.jpg</filename>
+	<path>D:\johnnyvo.sg_gmail_100gb\LabView\Kavi System\Labelled data - rock\Rock12.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Sandstone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>476</xmin>
+			<ymin>193</ymin>
+			<xmax>1457</xmax>
+			<ymax>928</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Sandstone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1242</xmin>
+			<ymin>967</ymin>
+			<xmax>2050</xmax>
+			<ymax>1982</ymax>
+		</bndbox>
+	</object>
+</annotation>

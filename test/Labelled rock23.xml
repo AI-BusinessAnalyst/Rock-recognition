@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Labelled data - rock 2</folder>
+	<filename>Labelled rock23.jpg</filename>
+	<path>D:\johnnyvo.sg_gmail_100gb\LabView\Kavi System\Labelled data - rock 2\Labelled rock23.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Shale</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>609</xmin>
+			<ymin>697</ymin>
+			<xmax>1084</xmax>
+			<ymax>943</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Shale</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>53</xmin>
+			<ymin>1566</ymin>
+			<xmax>671</xmax>
+			<ymax>1877</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Shale</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2129</xmin>
+			<ymin>1750</ymin>
+			<xmax>2547</xmax>
+			<ymax>2017</ymax>
+		</bndbox>
+	</object>
+</annotation>
